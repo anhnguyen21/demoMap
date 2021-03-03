@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "files.associations": {
+        "*.json": "jsonc"
+    },
+    "eslint.options": {
+        "configFile": "./.eslintrc.json"
+    },
+    "editor.tabSize": 2,
+    "cSpell.words": [
+        "xcode"
+    ],
+    "editor.wordWrapColumn": 100
+}
